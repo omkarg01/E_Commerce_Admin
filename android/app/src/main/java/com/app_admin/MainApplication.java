@@ -1,4 +1,4 @@
-package com.app;
+package com.app_admin;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
